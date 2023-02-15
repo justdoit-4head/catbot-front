@@ -1,0 +1,72 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  flex: 0.35;
+  background-color: black;
+  color: white;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #202c33;
+  padding: 15px;
+  height: 49px;
+  border-bottom: 1px solid rgb(87, 86, 86);
+  border-right: 1px solid rgb(87, 86, 86);
+  color: white;
+}
+.chatlist {
+  display: flex;
+  /* background-image: url("../images/ForsenLookingAtYous.png"); */
+  /* background-repeat: no-repeat; */
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.chatlist img {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.name {
+  color: whitesmoke;
+}
+
+/* IconButton,
+DonutLargeIcon,
+ChatIcon,
+MoreVertIcon {
+  color: grey;
+} */
+
+.finger {
+  height: 100px;
+  width: 128px;
+}
+
+.fngr {
+  display: flex;
+}
+
+.H {
+  height: 128px;
+  width: 128px;
+  display: flex;
+  position: relative;
+  margin-left: 200px;
+  cursor: pointer;
+}
+
+.para {
+  text-align: center;
+}
+
+.lul {
+  height: 128px;
+  width: 128px;
+  display: flex;
+  margin-left: 300px;
+}
