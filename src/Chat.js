@@ -8,7 +8,7 @@ import MicIcon from "@mui/icons-material/Mic";
 import Sidebar from "./Sidebar";
 import emo from "./PagMan.png";
 
-const BASEUPI = "http://localhost:5000";
+const BASEUPI = "https://catbot-backend.onrender.com";
 
 function Chat({ user, setLegit }) {
   const [msgs, setMsgs] = useState([]);
