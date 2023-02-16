@@ -3,7 +3,7 @@ import Register from "./Register";
 import "./Sidebar.css";
 import ccp from "./cpp.jpeg";
 
-const BASEUPI = "https://catbot-backend.onrender.com";
+const BASEUPI = "https://cat-front.onrender.com";
 
 function Login({ user, setUser, setLegit, setForm }) {
   const [username, setUsername] = useState("");

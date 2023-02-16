@@ -4,7 +4,7 @@ import Chat from "./Chat";
 import Login from "./Login";
 import Register from "./Register";
 
-const BASEUPI = "https://catbot-backend.onrender.com";
+const BASEUPI = "https://cat-front.onrender.com";
 
 // const [legit, setLegit] = useState();
 
