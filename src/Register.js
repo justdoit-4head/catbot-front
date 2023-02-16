@@ -3,7 +3,7 @@ import { useState } from "react";
 import "./Sidebar.css";
 import ccp from "./cpp.jpeg";
 
-const BASEUPI = "https://cat-front.onrender.com";
+const BASEUPI = "https://catbot-backend.onrender.com";
 
 function Register({ setLegit, setForm, setUser }) {
   const [username, setUsername] = useState("");
